@@ -1,3 +1,9 @@
 # firstapp
-# firstapp
-# firstapp
+
+
+echo "# firstapp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vincedgy/firstapp.git
+git push -u origin master
