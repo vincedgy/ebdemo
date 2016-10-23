@@ -1,11 +1,19 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
+<<<<<<< HEAD
   <groupId>net.vincedgy.cicd.ebdemo</groupId>
   <artifactId>ebdemo</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>ebdemo Maven Webapp</name>
+=======
+  <groupId>net.vincedgy.cicd.firstapp</groupId>
+  <artifactId>firstapp</artifactId>
+  <packaging>war</packaging>
+  <version>1.0-SNAPSHOT</version>
+  <name>firstapp Maven Webapp</name>
+>>>>>>> dbfa6736dd803bb5c9681d2fb06767111c38ebb0
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +24,10 @@
     </dependency>
   </dependencies>
   <build>
+<<<<<<< HEAD
     <finalName>ebdemo</finalName>
+=======
+    <finalName>firstapp</finalName>
+>>>>>>> dbfa6736dd803bb5c9681d2fb06767111c38ebb0
   </build>
 </project>
